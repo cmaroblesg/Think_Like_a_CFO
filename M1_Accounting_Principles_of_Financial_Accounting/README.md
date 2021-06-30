@@ -25,7 +25,7 @@ In the first sessions of the course, we will describe the mechanics of accountin
 * **Week 1:** [Introduction to Financial Accounting: The Balance Sheet](./Week1/README.md)
   * In this session you will  get an overview of the accounting process, understanding the road map from real business transactions to the summary financial reports. We will actually introduce the first and most important of this summary financial statements: the Balance Sheet. This financial report will tell us where the money is coming from and how it is being used in the firm.
 
-* **Week 2:** The Income Statement
+* **Week 2:** [The Income Statement](./Week2/README.md)
   * In this session we will introduce the Income Statement, a financial report that will help us understand the profitability of the business.  
 
 * **Week 3:** The Cash Flow Statement
