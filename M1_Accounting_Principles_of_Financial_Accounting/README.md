@@ -28,7 +28,7 @@ In the first sessions of the course, we will describe the mechanics of accountin
 * **Week 2:** [The Income Statement](./Week2/README.md)
   * In this session we will introduce the Income Statement, a financial report that will help us understand the profitability of the business.  
 
-* **Week 3:** The Cash Flow Statement
+* **Week 3:** [The Cash Flow Statement](./Week3/README.md)
   * Your business can be very profitable, but if it runs out of cash, it may go bankrupt. In this session we will introduce the Cash Flow Statement, a financial report that will help us understand liquidity, and how a company generates and consumes cash.
 
 * **Week 4:** Accrual Accounting  
