@@ -4,6 +4,7 @@ Now that you are familiar with the balance sheet, in week two we'll learn how to
 
 ## Files
 * [Transactions Week 2](./files/Transactions_Week2.pdf)
+* [Quiz 2 with Solutions](./files/Quiz2_Solutions.pdf)
 
 ## Readings
 * [Introduction to Financial Accounting](./readings/Introduction_to_Financial_Accounting.pdf)
