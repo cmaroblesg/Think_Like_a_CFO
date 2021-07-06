@@ -31,7 +31,7 @@ In the first sessions of the course, we will describe the mechanics of accountin
 * **Week 3:** [The Cash Flow Statement](./Week3/README.md)
   * Your business can be very profitable, but if it runs out of cash, it may go bankrupt. In this session we will introduce the Cash Flow Statement, a financial report that will help us understand liquidity, and how a company generates and consumes cash.
 
-* **Week 4:** Accrual Accounting  
+* **Week 4:** [Accrual Accounting](./Week4/README.md)  
   * The economic impact of events and transactions is recognized in the financial statements when the events and transactions occur, not when cash exchanges hands. This is called accrual accounting, as opposed to cash accounting, in which you would only recognize cash transactions. In this session we will discuss the fundamental implications of accrual accounting, such as the necessary introduction of subjective estimates.
 
 ### 4. Methodology and Evaluation
