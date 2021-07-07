@@ -7,6 +7,7 @@ By using accrual accounting we can measure performance when a financial transact
 * [Background Information for Reference](./files/Coursera_ACC_Quiz_4_Background_Info_for_Reference.pdf)
 * [Final Exam Accounting Promt](./files/Final_Exam_Accounting_prompt.xlsx)
 * [Final Exam Accounting Solucions](./files/Final_Exam_Accounting_solutions.xlsx)
+* [Quiz 4 Solutions](./files/Quiz4_Solutions.pdf)
 
 ## Readings
 I hope this course has given you a good grasp of some accounting basics. If you'd like to do more reading on your own beyond the scope of this course, I can recommend the following articles available at IESE Publishing (see links to the IESE Publishing store below):
