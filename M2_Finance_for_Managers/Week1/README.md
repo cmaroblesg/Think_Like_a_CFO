@@ -9,4 +9,5 @@ In this first week, we'll discuss what operational finance is all about by looki
 ## Readings
 * [F-0869-E_Polypanel Financing Growth](./files/F-0869-E_Polypanel_Financing_Growth.pdf)
 * [Polypanel Prep Sheet 1st session](./files/Polypanel_Prep_Sheet_1st_session.pdf)
+* [Financial Terms & Definitions](./files/Financial_Terms_&_Definitions.pdf)
 * [PolyPanel TO DO Before WEEK 1](./files/PolyPanel_To_Do_Before_Week1.xlsx)
