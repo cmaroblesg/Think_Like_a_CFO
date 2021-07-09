@@ -8,3 +8,4 @@ When you complete the Specialization, you’ll be able to better understand both
 
 ## Content
 * **Course 1:** [Accounting Principles of Financial Accounting](./M1_Accounting_Principles_of_Financial_Accounting/README.md)
+* **Course 2:** [Finance for Managers](./M2_Finance_for_Managers/README.md)
