@@ -24,7 +24,7 @@ Operational Finance: Building a Robust Business consists of four weekly sessions
  ### [Week 1 - Financial Analysis](./Week1/README.md)
 In this session you will get an overview of how to conduct a basic analysis of financial statements (the balance sheet and P&L) and the different items that compose them.
 
-### [Week 2 - Operational Ratios and Forecasting]
+### [Week 2 - Operational Ratios and Forecasting](./Week2/README.md)
 In this session we will discuss how the ratios shed light on a firm’s strengths and weaknesses. You will also gain insights into how we can use these ratios to develop the forecasting needed for decision making.
 
 ### [Week 3 - Diagnosis and Action Plan]
