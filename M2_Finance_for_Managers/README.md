@@ -30,7 +30,7 @@ In this session we will discuss how the ratios shed light on a firm’s strength
 ### [Week 3 - Diagnosis and Action Plan](./Week3/README.md)
 In this session, you will learn how to diagnose company problems and develop an action plan to address them.
 
-### [Week 4 – Sensitivity Analysis, NFO Revisited, and Building up the ROE](./Week4/READEME.md)
+### [Week 4 – Sensitivity Analysis, NFO Revisited, and Building up the ROE](./Week4/README.md)
 In this final week we will talk about how conclusions change with changes in key variables, we will complete the concept of NFO, we will develop the DuPont analysis, and do a final short game.
 
 ## 4. Methodology and Evaluation
