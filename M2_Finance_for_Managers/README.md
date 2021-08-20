@@ -27,10 +27,10 @@ In this session you will get an overview of how to conduct a basic analysis of f
 ### [Week 2 - Operational Ratios and Forecasting](./Week2/README.md)
 In this session we will discuss how the ratios shed light on a firm’s strengths and weaknesses. You will also gain insights into how we can use these ratios to develop the forecasting needed for decision making.
 
-### [Week 3 - Diagnosis and Action Plan]
+### [Week 3 - Diagnosis and Action Plan](./Week3/README.md)
 In this session, you will learn how to diagnose company problems and develop an action plan to address them.
 
-### [Week 4 – Sensitivity Analysis, NFO Revisited, and Building up the ROE]
+### [Week 4 – Sensitivity Analysis, NFO Revisited, and Building up the ROE](./Week4/READEME.md)
 In this final week we will talk about how conclusions change with changes in key variables, we will complete the concept of NFO, we will develop the DuPont analysis, and do a final short game.
 
 ## 4. Methodology and Evaluation
