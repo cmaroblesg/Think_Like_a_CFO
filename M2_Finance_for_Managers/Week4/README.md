@@ -4,4 +4,4 @@ In this final week, we will introduce the final pieces of the puzzle to give you
 
 ## Readings
 * [Week 4 Multiple Choice Solutions Excel](./files/Week4_Multiple_Choice_Solutions_EXCEL.pdf)
-* [Week 4 Multiple Choice Solutions][./files/Week4_Multiple_Choice_Solutions.pdf]
+* [Week 4 Multiple Choice Solutions](./files/Week4_Multiple_Choice_Solutions.pdf)
