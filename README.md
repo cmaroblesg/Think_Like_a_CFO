@@ -9,3 +9,5 @@ When you complete the Specialization, you’ll be able to better understand both
 ## Content
 * **Course 1:** [Accounting Principles of Financial Accounting](./M1_Accounting_Principles_of_Financial_Accounting/README.md)
 * **Course 2:** [Finance for Managers](./M2_Finance_for_Managers/README.md)
+* **Course 3:** [Corporate Finance Essentials](./M3_Corporate_Finace_Essentials/README.md)
+* **Course 4:** [Corporate Finance Essentials II](./M4_Corporate_Finace_Essentials_II/README.md)
